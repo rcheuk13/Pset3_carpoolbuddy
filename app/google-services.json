@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070762728734",
+    "project_id": "pset3-carpool",
+    "storage_bucket": "pset3-carpool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070762728734:android:d121657f751fd3be947d0f",
+        "android_client_info": {
+          "package_name": "com.example.pset3carpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070762728734-ldjcb41er28jqpf37jltr0nrv5anmlrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Vz4W5JNtaYdmuwXnsigQPHJzODJXVGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070762728734-ldjcb41er28jqpf37jltr0nrv5anmlrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
